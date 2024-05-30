@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: beauty.LaunchDove_Testusingcmd
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.781 s -- in beauty.LaunchDove_Testusingcmd
